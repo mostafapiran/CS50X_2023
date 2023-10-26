@@ -1,0 +1,8 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+
+To calculate the sound aura, we can use an artificial intelligence system to adjust the coefficients of an artist's musical characteristics.
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+
+We may not be able to collect enough and suitable data from the audience to train our neural network.
+But if we can collect a suitable data set to determine the coefficients for calculating the sound halo of artificial intelligence and neural network or deep learning, I think it is a suitable method.
