@@ -10,3 +10,7 @@ My personal experience in taking this course
 <p align="center">
  <img src="./CS50x.png">
 </p>
+
+
+## [Verification](https://cs50.harvard.edu/certificates/646a411d-364c-43ca-8c33-763a29e78d4e)
+
