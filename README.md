@@ -7,10 +7,8 @@ My personal experience in taking this course
 
 ### ❗ **Cheating violates the [Academic Honesty](https://cs50.harvard.edu/x/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.**
 
+## [Verification](https://cs50.harvard.edu/certificates/646a411d-364c-43ca-8c33-763a29e78d4e) my certification.
+
 <p align="center">
  <img src="./CS50x.png">
 </p>
-
-
-## [Verification](https://cs50.harvard.edu/certificates/646a411d-364c-43ca-8c33-763a29e78d4e)
-
